@@ -12,7 +12,7 @@ import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
-import { Bloge } from "./bloge";
+import { Bloge } from "./Bloge";
 export {
     Header,
     Footer,
